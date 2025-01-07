@@ -12,5 +12,7 @@ The goal of the store is to get customers to consider purchasing from our store 
 
 ### List of Web and AI Sources Used:
 Stack Overflow: https://stackoverflow.com/questions/35240758/adding-image-as-a-background-in-jsp
+
 Copilot AI, ChatGPT AI
+
 PC Part Picker [Images and Price Reference]: https://pcpartpicker.com/
